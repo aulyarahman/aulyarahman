@@ -16,4 +16,74 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-191694%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 11 Contributions in the Year 2021
+ > 
+> 📦 19.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    67 commits     ██████████░░░░░░░░░░░░░░░   40.61% 
+🌆 Daytime    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌃 Evening    73 commits     ███████████░░░░░░░░░░░░░░   44.24% 
+🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       35 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Tuesday      55 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+Wednesday    30 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Thursday     35 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Friday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Makassar
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ████████████████░░░░░░░░░   63.64% 
+TypeScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/aulyarahman/aulyarahman/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
