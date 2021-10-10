@@ -39,8 +39,7 @@ Here are some ideas to get you started:
  > 
 > 📜 17 Public Repositories 
  > 
-> 🔑 9 Private Repositories  
- > 
+
 **I'm an Early 🐤** 
 
 ```text
