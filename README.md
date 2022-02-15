@@ -1,6 +1,6 @@
 [![Gmail Url](https://img.shields.io/twitter/url?label=aaulia.raahman@gmail.com&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Acontact.aaulia.raahman@gmail.com)](mailto:aaulia.raahman@gmail.com) [![Instagram Profile](https://img.shields.io/twitter/url?label=auliyrhman&logo=instagram&style=social&url=https://www.instagram.com/auliyrhman/)](https://www.instagram.com/auliyrhman)
 
-## I`am able to use..
+## I`am working with...
 
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/javascript.svg" width="50">]() | [<img src="https://cdn.svgporn.com/logos/mysql.svg" width="50">]() | <img src="https://cdn.svgporn.com/logos/firebase.svg" width="50"/> | <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50"/> |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------ |
